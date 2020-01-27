@@ -11,6 +11,9 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+table, th, td {
+  border: 1px solid black;
+}
 
 html {
   color: #222;
